@@ -4,6 +4,6 @@
 
 
 7. sınıf Teknoloji Ve Tasarım dersi için yapılmıştır.
-Godot Engine 3 Motoru Kullanılmıştır.
+Godot Engine 4 Motoru Kullanılmıştır.
 
 ![image](https://github.com/btnyaren/Finder-Of-The-Verb/assets/162361300/050c7258-408f-44fe-afff-5cef782309b0)
